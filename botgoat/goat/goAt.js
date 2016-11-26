@@ -1,4 +1,3 @@
-
 function proxy() {
         function dig(az){
                 var re = "";
@@ -46,4 +45,5 @@ function proxy() {
 	window.location = lock;} else {window.location = prefix;}
 }
 proxy(); 
+
 
